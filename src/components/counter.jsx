@@ -12,7 +12,7 @@ class Counter extends Component {
   //   return <ul> {this.state.tags.map((tag) => <li key={tag}>{tag}</li>)} </ul>
   // }
 
-
+  
   constructor(){
     super();
     console.log('Constructor'. this)
